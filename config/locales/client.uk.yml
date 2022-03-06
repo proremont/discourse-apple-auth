@@ -1,0 +1,8 @@
+en:
+  js:
+    login:
+      apple:
+        name: "Apple"
+        title: "з Apple"
+        sr_title: "Увійти з Apple"
+        message: "Аутентикація з Apple"
