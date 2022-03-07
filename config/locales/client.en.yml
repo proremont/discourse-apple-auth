@@ -3,6 +3,6 @@ en:
     login:
       apple:
         name: "Apple"
-        title: "with Apple"
-        sr_title: "Login with Apple"
-        message: "Authenticating with Apple"
+        title: "з Apple"
+        sr_title: "Увійти з Apple"
+        message: "Аутентикація з Apple"
